@@ -1,14 +1,14 @@
 %global upstream_name texttable
 
 Name:           python-%{upstream_name}
-Version:	1.6.2
-Release:	2
+Version:	1.6.3
+Release:	1
 Summary:        Python module to generate a formatted text table, using ASCII characters
 
 Group:          Development/Python
 License:        LGPLv3
 URL:            https://github.com/foutaise/texttable
-Source0:	https://files.pythonhosted.org/packages/82/a8/60df592e3a100a1f83928795aca210414d72cebdc6e4e0c95a6d8ac632fe/texttable-1.6.2.tar.gz
+Source0:	https://files.pythonhosted.org/packages/f5/be/716342325d6d6e05608e3a10e15f192f3723e454a25ce14bc9b9d1332772/texttable-1.6.3.tar.gz
 BuildArch:      noarch
 BuildRequires:  pkgconfig(python3)
 BuildRequires:  python3dist(setuptools)
