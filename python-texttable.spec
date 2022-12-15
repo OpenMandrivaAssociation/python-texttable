@@ -56,4 +56,4 @@ popd
 %files -n python-%{upstream_name}
 %doc PKG-INFO README.md
 %{python3_sitelib}/texttable*
-%{python3_sitelib}/__pycache__/texttable*
+# %{python3_sitelib}/__pycache__/texttable*
