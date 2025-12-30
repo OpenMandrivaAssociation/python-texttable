@@ -2,7 +2,7 @@
 
 Name:		python-%{upstream_name}
 Version:	1.6.4
-Release:	4
+Release:	5
 Summary:	Python module to generate a formatted text table, using ASCII characters
 Group:		Development/Python
 License:	LGPLv3
